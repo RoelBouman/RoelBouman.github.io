@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Chemistry (double bachelor degree), Radboud University, 2016
+* BSc in Molecular Life Sciences (double bachelor degree), Radboud University, 2016
+* MSc in Chemistry (double master degree), Radboud University, 2020
+* MSc in Computing Science, specialisation Data science (double master degree), Radboud University, 2020
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant
+  * Data Mining (2017-2023)
+  * Statistics (2017-2019)
+  * Advanced Data Analysis (2018/2019)
+  * Programming in MATLAB (2017-2019)
+  * Big Data (2018-2019)
+  * Machine Learning in Practice (2020-2022)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lectures
+  * Big Data (2020): Spark Structured Streaming
+  * Data Mining (2023): Anomaly Detection
   
-Skills
+Student Supervision
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bachelor Thesis:
+  * Gijs Thuis (2022): Comparing shallow autoencoders to normalization, standardization and PCA as preprocessing step for outlier detection
+  * Lars Abbink (2022): The use of Unsupervised Anomaly Detection Algorithms in a Financial Statement Audit
+* Master Thesis:
+  * Puja Prakash (2021): Recipe Change Prediction
+  * Reinier Stribos @UTwente (2023): A Comparison of Anomaly Detection Algorithms with applications on Recoater Streaking in an Additive Manufacturing Process
+  * Thijs Passchier (ongoing)
+* Research Internship: 
+  * Linda Schmeitz (2021) @Alliander 
+  * Daniëlle Wevers (2022) @NXP: A Machine Learning Model for Equipment Data in Semiconductor Manufacturing
+  * Evander van Wolfswinkel (2023) @Alliander
+
 
 Publications
 ======
@@ -42,18 +51,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+
