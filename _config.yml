@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roel Bouman"
 title_separator          : "-"
 name                     : &name "Roel Bouman"
-description              : &description "PhD-candidate Machine Learning at Radboud University's Data Science group"
+description              : &description "Postdoctoral researcher Machine Learning at Radboud University's Data Science group"
 url                      : https://RoelBouman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RoelBouman/RoelBouman.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roel Bouman"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD-candidate Machine Learning at Radboud University's Data Science group"
+  bio              : "Postdoctoral researcher Machine Learning at Radboud University's Data Science group"
   location         : "Nijmegen"
   employer         : "Radboud University"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "bouman_roel"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
