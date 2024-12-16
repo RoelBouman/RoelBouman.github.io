@@ -15,13 +15,13 @@ Education
 * BSc in Molecular Life Sciences (double bachelor degree), Radboud University, 2016
 * MSc in Chemistry (double master degree), Radboud University, 2020
 * MSc in Computing Science, specialisation Data science (double master degree), Radboud University, 2020
-* PhD in machine Learning, Title: Rethinking Anomaly Detection: from Theory to Practice, Radboud Univerrsity, defense scheduled April 15, 2025
+* PhD in machine Learning, Title: Rethinking Anomaly Detection: from Theory to Practice, Radboud University, defense scheduled April 15, 2025
 
 
 Grants
 ======
 * Main applicant:
-  * Radboud Interdisciplinary Research Platform Voucher (50k): Predictive maintenance on the Dutch power grid using automated partial discharge detection (2022)
+  * Radboud Interdisciplinary Research Platform Grant (50k): Predictive maintenance on the Dutch power grid using automated partial discharge detection (2022)
   * Radboud Green IT Voucher (30k): STORM (Switch Tagging and Outlier Recognition for power grid Measurements) (2021)
   * Radboud Education Innovation Grant (6k): Automated plagiarism detection (2021)
   * Radboud Education Innovation Grant (3 month PhD extension): Automated Grading of Jupyter Notebooks (2021)
@@ -63,7 +63,7 @@ Student Supervision
 
 
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
