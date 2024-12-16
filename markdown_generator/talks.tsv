@@ -1,7 +1,12 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Isolation Forest	Tutorial		Data Science Coffee Talk	2021-02-19	Radboud University		
-Comparing Unsupervised Anomaly Detection Algorithms	Talk		Risk and Resilience Festival	2022-11-10	Twente University		
-Improving the Dutch Power Grid using AI	Talk		Radboud Alumni talk	2023-03-30	Radboud University		
-Anomaly Detection in Predictive Maintenance: a Quick Overview	Talk		Lorentz Workshop on Predictive Maintenance: Let Data Maintain the Model	2023-10-29	Leiden University		
-Smart Maintenance Solutions in Energy	Talk		Prisma AI Workshop	2022-04-13	Perron038, Zwolle		
-Anomaly Detection in industry: What do we need for cutting-edge applications?	Talk		Hagenberg Prescriptive Analytics Days	2024-04-03	SCCH, Hagenberg		
+Isolation Forest	Tutorial	Tutorial-1	Data Science Coffee Talk	2021-02-19	Radboud University		
+Comparing Unsupervised Anomaly Detection Algorithms	Talk	Talk-1	Risk and Resilience Festival	2022-11-10	Twente University		
+Improving the Dutch Power Grid using AI	Talk	Talk-2	Radboud Alumni talk	2023-03-30	Radboud University		
+Anomaly Detection in Predictive Maintenance: a Quick Overview	Talk	Talk-3	Lorentz Workshop on Predictive Maintenance: Let Data Maintain the Model	2023-10-29	Leiden University		
+Smart Maintenance Solutions in Energy	Talk	Talk-4	Prisma AI Workshop	2022-04-13	Perron038, Zwolle		
+Anomaly Detection in industry: What do we need for cutting-edge applications?	Talk	Talk-5	Hagenberg Prescriptive Analytics Days	2024-04-03	SCCH, Hagenberg, Austria		
+Unsupervised Anomaly Detection Algorithms on Real-world Data: How Many Do We Need?	Talk	Talk-6	Digital Industry Center Seminar	2023-11-29	Fondazione Bruno Kessler, Trento, Italy		
+Predictive Maintenance for Energy Grids	Poster	Poster-1	Interdisciplinary Research Platform Symposium	2023-04-17	Radboud University		
+Unsupervised Anomaly Detection Algorithms on Real-world Data: How Many Do We Need?	Poster	Poster-2	NeurIPS 2024	2024-12-13	Vancouver, Canada		
+Unsupervised Anomaly Detection Algorithms on Real-world Data: How Many Do We Need?	Poster	Poster-3	Ellis Doctoral Symposium	2023-08-29	Helsinki, Finland		
+Process PLS: A new path modeling algorithm for high dimensional and multicollinear data	Poster	Poster-4	Scandinavian Symposium on Chemometrics	2019-06-19	Oslo, Norway		
